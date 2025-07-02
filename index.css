@@ -60,6 +60,7 @@ button {
   }
   #welcome-el {
     margin-bottom: -60px;
+    font-size: 0.8em;
   }
   .container {
     max-width: 90%;
