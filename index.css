@@ -1,0 +1,51 @@
+body {
+    height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background: url(railway2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#welcome-el {
+    max-width: 60%;
+    color: red;
+    margin: auto;
+    padding: 10px;
+}
+.container {
+    background-color: white;
+    max-width: 60%;
+    opacity: 90%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 10px 10px;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+button {
+    border: 1px solid black;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+    margin: 10px;
+    color: white;
+    width: 150px;
+}
+
+#increment-btn {
+    background-color: red;
+}
+
+#save-btn {
+    background-color: green;
+}
+
