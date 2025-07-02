@@ -1,7 +1,7 @@
 let welcomeEl = document.getElementById('welcome-el');
 
 let name = prompt("What is your name?")
-let greeting = "Hi, Welcome to this page, "
+let greeting = "Hi, You can start taking your count, "
 
 let namedGreeting = greeting + name;
 
